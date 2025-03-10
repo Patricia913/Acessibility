@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Página sobre acessibilidade na web, com explicações claras e estrutura organizada.">
+    <title>Acessibilidade na Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 20px;
+        }
+        header {
+            background: #005a9c;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #005a9c;
+        }
+        a {
+            color: #005a9c;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Acessibilidade na Web</h1>
+    </header>
+    <main>
+        <h2>O que é acessibilidade?</h2>
+        <p>A acessibilidade na web garante que todas as pessoas, incluindo aquelas com deficiência, possam acessar e interagir com conteúdos digitais de forma eficiente.</p>
+        
+        <h2>Principais práticas</h2>
+        <ul>
+            <li>Fornecer texto alternativo para imagens.</li>
+            <li>Garantir contraste adequado entre texto e fundo.</li>
+            <li>Permitir navegação por teclado.</li>
+            <li>Usar títulos e estrutura clara para facilitar a leitura.</li>
+        </ul>
+        
+        <h2>Saiba mais</h2>
+        <p>Visite o <a href="https://www.w3.org/WAI/" target="_blank">W3C Web Accessibility Initiative</a> para mais informações.</p>
+    </main>
+</body>
+</html>
+
